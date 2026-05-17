@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "etl-pemda-project-496608",
+  "private_key_id": "a1850dcba3d4396d4bdc14eb69ac6a28a33c8c42",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDcLYIdrLbGEAdZ\nEq4ctCtC09dlGs87ycr6KzxyfKBGyAoNXrHIs3CwdtAaVQEt0Y4UEB5GHEqYWnzF\nTmYNHWi11I/yHmpJ8HRzNkrp0R4Ea8JHJ0nwsW8GmsM5K5Ycq/LTNWSzeHoefKGT\nTeIqX/ACb9wk2eTOySPg+ifQBkRVXduouolhRy0HVgvfr6y71HDkRRmWL45dfYPa\nGv87AtMhi54FFk1fEAqwX2H4peUTzwsHYZdAGAc1LrpbLqP0n0v7T9aapvb/XO8E\nYn/jWEADXSAEkGbIru541aPRGRs1dEdVLaSDTvF9zCXUB9gQJdm5gRJ1s+HXXLEP\nChMMIL9dAgMBAAECggEAMxtkH7e6sDRBxGDz5clDXm52SatkrYPcV9/n1spLWMqv\nnKVdnpDaSDe3+9i93pENCeao5EzGWuFsI09cnFA2gThfFkwNj26fVSvlzSrDbTLH\nJIV/4f0JoK6VQKS3oh2ejnyPDKKbNA7pYVwbcosU1rf40Vv7gq1JJPxj9+MwguDJ\nYVc5OrY8rBNrDW4qB4d0E+O3nFzSQIPwzhmY0410ZD05dZSVbN1unOa/X+vI8g7g\nkpm3Dkf7R07jVXB6O5PbN1ZZKFmOD4UNn2L4C92UziD77dHOyPxiSjzMKZ8KdMnL\nY7eB8KnJepJKlww+hoTOjw/1mc1MhMRWBstL5TDYsQKBgQD3BzOfNu/UOsVaCdvm\n5OoDuSQa42CbiI22GhLaS6kgX5XZ3S8UBGopfwDKhpr38EQafFoohsEZRbUM4+nT\nREu7XPT8AE8Yrf54U2u8fafMwMjJnoyCV0AXb5wuSDjY3JS0R14BElrOPI9M6W6k\nfuU3HH80cNiAKSuvdUrhAJ2ikQKBgQDkLKjRnz7VdsAw6hKRtsx6bpgAjW7vgsoG\n0s0uuPKIJhNFkQJl2G1JH+DqY/m8+35omBVIszAnzLrfibUo3pHb9xHW02WW40mR\nkDFoXJ7oZmggwJ24ZdoiVmcjPpU+oHDfj35am87UpZpPcl2ReYKeXcYTsHAx91j5\nKtMSLiqeDQKBgCyRcA7Zqotvzwtfm/0cb9wcGxd+zn9BM9AXBC++VtUwaajU7xl9\ncmnqMApaHrt87cyZguqs5UnZ+cBJnnYvbDpxmwGcTKj3O2IaKuXnBc87OP6nTFJ3\ny2hvCo6PGTKHGY0tExi+ZwOuiWwm8X9cJZ671XdwpJ76zpbpYokVw1sBAoGARRXs\ni4Oe370T1fuZYbsqUEuaBFjOZQCBsO00qNfgvy5gGWkdg76y4DghvnZE0F6JWJvr\nndZ7VyGa10H3swcovKQjJ5tcIAJzbPpuqz2X85/GGVyYpJNaJ5lnovk48PxdEKN+\ny2pvhl0ZysJC6GAVF2QnLCD453gP3WmE/PUzfCUCgYEA3ung3+bv/LC4C9v393AS\nnKktr80tVPEwkUE2YmIsA0PrrFXZyOSVATeXNkYCRXZctT/bu0aCORZc2R9MFY1d\n4soI6iGsM3EvEvynoHotQ6GNN3jC7Yx8PNuEhY1AnKZ3owD1uN2mwme0aWcBmEQY\n0TzZTGbRIz5Q3zGqo0z5DQs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "etlfashion@etl-pemda-project-496608.iam.gserviceaccount.com",
+  "client_id": "111961941945700272310",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/etlfashion%40etl-pemda-project-496608.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
